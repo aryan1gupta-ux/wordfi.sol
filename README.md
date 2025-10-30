@@ -1,4 +1,4 @@
-### 🧩 WORDFI
+# 🧩 WORDFI
 ---
 WORDFI.sol!
 ---
